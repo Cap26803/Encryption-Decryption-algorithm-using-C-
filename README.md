@@ -1,2 +1,2 @@
-# Encryption-Decryption-algorithm-using-C-
+# Encryption-Decryption-algorithm-using-CPP-
 Encrypt any text with ease, and decrypt with a unique key. 
